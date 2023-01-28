@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 53 Contributions in the Year 2023
+> 🏆 54 Contributions in the Year 2023
  > 
 > 📦 78.6 kB Used in GitHub's Storage 
  > 
@@ -81,5 +81,5 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Adlemex/Adlemex/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2023 10:41:17 UTC
+ Last Updated on 28/01/2023 11:40:16 UTC
 <!--END_SECTION:waka-->
