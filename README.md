@@ -5,7 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 54 Contributions in the Year 2023
+> 🏆 53 Contributions in the Year 2023
  > 
 > 📦 78.6 kB Used in GitHub's Storage 
  > 
@@ -81,5 +81,5 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Adlemex/Adlemex/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2023 12:56:20 UTC
+ Last Updated on 28/01/2023 13:40:51 UTC
 <!--END_SECTION:waka-->
