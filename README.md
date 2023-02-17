@@ -85,3 +85,5 @@ Java                     2 repos             ██░░░░░░░░░�
 
  Last Updated on 16/02/2023 19:40:59 UTC
 <!--END_SECTION:waka-->
+.. image:: https://wakatime.com/share/@f9264963-5ffd-4e9f-b486-3a5096ee8fe7/50bac32d-ae3a-4b3f-8340-af87cd5a701d.png
+    :target: https://wakatime.com/
