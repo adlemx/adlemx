@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -79,5 +79,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Adlemex/Adlemex/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2023 13:10:37 UTC
+ Last Updated on 14/03/2023 13:49:09 UTC
 <!--END_SECTION:waka-->
