@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -7,7 +7,7 @@
 
 > 📦 80.7 kB Used in GitHub's Storage 
  > 
-> 🏆 89 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,5 +80,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Adlemex/Adlemex/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2023 11:39:16 UTC
+ Last Updated on 27/03/2023 13:59:53 UTC
 <!--END_SECTION:waka-->
