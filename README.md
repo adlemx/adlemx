@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,16 +42,23 @@ Sunday                   31 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 57 mins        ███████████████████░░░░░░   76.19 % 
+XML                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Kotlin                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Gradle                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           2 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+MiGPT                    1 hr 46 mins        █████████████████░░░░░░░░   69.25 % 
+MiBandAssistant          44 mins             ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+UNKNOWN                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,5 +78,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Adlemex/Adlemex/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2023 21:39:44 UTC
+ Last Updated on 01/05/2023 22:39:32 UTC
 <!--END_SECTION:waka-->
