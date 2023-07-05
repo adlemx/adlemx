@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,16 +42,19 @@ Sunday                   35 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   40 mins             ██████████████████████░░░   89.83 % 
+GitIgnore file           4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+yoloTest                 36 mins             ████████████████████░░░░░   79.97 % 
+Unknown Project          6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+axShow                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,5 +74,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Adlemex/Adlemex/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2023 21:39:49 UTC
+ Last Updated on 05/07/2023 22:42:11 UTC
 <!--END_SECTION:waka-->
