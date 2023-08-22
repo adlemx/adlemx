@@ -42,19 +42,16 @@ Sunday                   35 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   1 hr 33 mins        ███████████████████████░░   91.32 % 
-Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 42 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Практика                 1 hr 35 mins        ███████████████████████░░   92.99 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-AdlemCalc                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +71,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Adlemex/Adlemex/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2023 21:39:28 UTC
+ Last Updated on 22/08/2023 22:39:14 UTC
 <!--END_SECTION:waka-->
