@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -72,5 +72,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Adlemex/Adlemex/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2023 11:39:22 UTC
+ Last Updated on 01/12/2023 12:54:02 UTC
 <!--END_SECTION:waka-->
