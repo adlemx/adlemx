@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,16 +42,23 @@ Sunday                   37 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   37 mins             ████████████████████████░   97.42 % 
+textmate                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ptlPractice              34 mins             ███████████████████████░░   91.48 % 
+CopterSideMqttClient     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+autoSetupCopterShow      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+fastApiProjecttest       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,5 +78,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Adlemex/Adlemex/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2024 21:38:59 UTC
+ Last Updated on 05/02/2024 22:38:57 UTC
 <!--END_SECTION:waka-->
