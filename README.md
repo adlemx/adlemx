@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 68.9 kB Used in GitHub's Storage 
+> 📦 68.8 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2024
  > 
@@ -78,5 +78,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Adlemex/Adlemex/main/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2024 17:39:07 UTC
+ Last Updated on 09/02/2024 18:39:01 UTC
 <!--END_SECTION:waka-->
