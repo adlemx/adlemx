@@ -7,8 +7,6 @@
 
 > 📦 97.0 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -75,5 +73,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Adlemex/Adlemex/main/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2024 17:38:52 UTC
+ Last Updated on 26/02/2024 18:38:56 UTC
 <!--END_SECTION:waka-->
