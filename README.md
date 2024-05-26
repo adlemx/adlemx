@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -7,11 +7,9 @@
 
 > 📦 31.6 kB Used in GitHub's Storage 
  > 
-> 🏆 60 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 18 Private Repositories 
  > 
@@ -82,5 +80,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2024 12:12:28 UTC
+ Last Updated on 26/05/2024 15:08:39 UTC
 <!--END_SECTION:waka-->
