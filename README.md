@@ -7,6 +7,8 @@
 
 > 📦 31.8 kB Used in GitHub's Storage 
  > 
+> 🏆 75 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -83,5 +85,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2024 00:35:48 UTC
+ Last Updated on 14/06/2024 03:09:11 UTC
 <!--END_SECTION:waka-->
