@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 32.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 95 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,11 +70,11 @@ Linux                    3 hrs 33 mins       ██████████░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   22 repos            ███████████████░░░░░░░░░░   61.11 % 
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Python                   23 repos            ████████████████░░░░░░░░░   62.16 % 
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
@@ -82,5 +84,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2024 18:09:36 UTC
+ Last Updated on 06/07/2024 21:08:06 UTC
 <!--END_SECTION:waka-->
