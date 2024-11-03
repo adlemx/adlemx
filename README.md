@@ -1,13 +1,9 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%206%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 32.6 kB Used in GitHub's Storage 
- > 
-> 🏆 154 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -77,5 +73,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2024 18:12:33 UTC
+ Last Updated on 03/11/2024 21:08:32 UTC
 <!--END_SECTION:waka-->
