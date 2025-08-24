@@ -7,6 +7,8 @@
 
 > 📦 66.7 kB Used in GitHub's Storage 
  > 
+> 🏆 146 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -81,5 +83,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2025 09:10:33 UTC
+ Last Updated on 24/08/2025 12:18:25 UTC
 <!--END_SECTION:waka-->
