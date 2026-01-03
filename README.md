@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-861%20hrs%2047%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -40,23 +42,16 @@ Sunday                   152 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JSON                     10 mins             ██████████░░░░░░░░░░░░░░░   41.12 % 
-TOML                     8 mins              █████████░░░░░░░░░░░░░░░░   34.01 % 
-Python                   6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-RustRover                18 mins             ███████████████████░░░░░░   75.13 % 
-PyCharm                  6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-axShow                   18 mins             ███████████████████░░░░░░   75.13 % 
-hr_game_main             6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-furryPoster              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -76,5 +71,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 21:09:40 UTC
+ Last Updated on 03/01/2026 00:53:47 UTC
 <!--END_SECTION:waka-->
