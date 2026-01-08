@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -42,16 +42,19 @@ Sunday                   152 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   32 mins             █████████████████████░░░░   83.41 % 
+Requirements.txt         6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+karaoke_backend          21 mins             █████████████░░░░░░░░░░░░   53.63 % 
+karaoke-backend          18 mins             ████████████░░░░░░░░░░░░░   46.37 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,5 +74,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2026 21:12:18 UTC
+ Last Updated on 08/01/2026 00:57:23 UTC
 <!--END_SECTION:waka-->
