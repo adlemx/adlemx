@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%2052%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -15,45 +13,6 @@
  > 
 > 🔑 30 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-🌆 Daytime                424 commits         █████████░░░░░░░░░░░░░░░░   36.93 % 
-🌃 Evening                560 commits         ████████████░░░░░░░░░░░░░   48.78 % 
-🌙 Night                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   195 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Tuesday                  171 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Wednesday                137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Thursday                 120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Friday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Saturday                 176 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Sunday                   221 commits         █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -71,5 +30,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 19:27:04 UTC
+ Last Updated on 14/05/2026 22:00:38 UTC
 <!--END_SECTION:waka-->
