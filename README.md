@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%202%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -40,23 +42,22 @@ Sunday                   222 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   40.03 % 
-Rust                     1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   28.56 % 
-PowerShell               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-textmate                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+TypeScript               56 mins             ████████████░░░░░░░░░░░░░   46.59 % 
+Rust                     52 mins             ███████████░░░░░░░░░░░░░░   43.47 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-RustRover                3 hrs 1 min         █████████████████░░░░░░░░   66.73 % 
-Claude Code              55 mins             █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-Antigravity CLI          34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+RustRover                58 mins             ████████████░░░░░░░░░░░░░   48.23 % 
+Claude Code              47 mins             ██████████░░░░░░░░░░░░░░░   39.47 % 
+Antigravity CLI          14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 
 🐱‍💻 Projects: 
-karaoke-app              4 hrs 31 mins       █████████████████████████   99.91 % 
-patched_rodio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+karaoke-app              2 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,5 +77,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 21:55:21 UTC
+ Last Updated on 25/07/2026 01:42:40 UTC
 <!--END_SECTION:waka-->
