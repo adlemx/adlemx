@@ -42,22 +42,20 @@ Sunday                   222 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               56 mins             ████████████░░░░░░░░░░░░░   46.59 % 
-Rust                     52 mins             ███████████░░░░░░░░░░░░░░   43.47 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+TypeScript               25 mins             ██████████████████████░░░   87.79 % 
+Rust                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-RustRover                58 mins             ████████████░░░░░░░░░░░░░   48.23 % 
-Claude Code              47 mins             ██████████░░░░░░░░░░░░░░░   39.47 % 
-Antigravity CLI          14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Claude Code              28 mins             █████████████████████████   98.96 % 
+RustRover                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🐱‍💻 Projects: 
-karaoke-app              2 hrs 1 min         █████████████████████████   100.00 % 
+karaoke-app              28 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  28 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,5 +75,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 21:43:29 UTC
+ Last Updated on 26/07/2026 01:45:17 UTC
 <!--END_SECTION:waka-->
