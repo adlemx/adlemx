@@ -42,20 +42,17 @@ Sunday                   222 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               25 mins             ██████████████████████░░░   87.79 % 
-Rust                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TOML                     0 secs              ██████████████████████░░░   89.35 % 
+JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 
 🔥 Editors: 
-Claude Code              28 mins             █████████████████████████   98.96 % 
-RustRover                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+RustRover                0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-karaoke-app              28 mins             █████████████████████████   100.00 % 
+karaoke-app              0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +72,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 21:48:47 UTC
+ Last Updated on 27/07/2026 01:52:17 UTC
 <!--END_SECTION:waka-->
