@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-948%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,23 +44,50 @@ Sunday                   222 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TOML                     0 secs              ██████████████████████░░░   89.35 % 
-JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Python                   55 mins             ██████████████████░░░░░░░   71.00 % 
+Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-RustRover                0 secs              █████████████████████████   100.00 % 
+PyCharm                  56 mins             ██████████████████░░░░░░░   72.70 % 
+Claude Code              17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Antigravity CLI          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+RustRover                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🐱‍💻 Projects: 
-karaoke-app              0 secs              █████████████████████████   100.00 % 
+hr_game_main             28 mins             █████████░░░░░░░░░░░░░░░░   36.89 % 
+hr_game_auth             18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Competencies-Game-front  17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+logging_service          9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+karaoke-app              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 57 mins (73.9%)
+
+✍️ 33 lines written by AI, 1 lines written by hand (97.06% AI-written)
+
+🔤 1,554,103 Input Tokens, 4,030 Output Tokens
+
+💵 $3.10 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 3 AI Prompts
+
+Sonnet                   38 lines            █████████████░░░░░░░░░░░░   53.52 % 
+Gemini                   33 lines            ████████████░░░░░░░░░░░░░   46.48 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.06% of written lines came from AI
+📝 Concise Prompter — average 67 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 20.93% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -80,5 +107,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 21:55:42 UTC
+ Last Updated on 29/07/2026 01:27:23 UTC
 <!--END_SECTION:waka-->
