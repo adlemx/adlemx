@@ -44,49 +44,50 @@ Sunday                   222 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               2 hrs 13 mins       ████████████░░░░░░░░░░░░░   46.58 % 
-Python                   1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   35.04 % 
-Markdown                 43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+TypeScript               3 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.39 % 
+Python                   2 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.60 % 
+Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+SCSS                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 1 min         ████████████████░░░░░░░░░   63.17 % 
-PyCharm                  1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   35.50 % 
-Antigravity CLI          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Claude Code              3 hrs 45 mins       ████████████░░░░░░░░░░░░░   49.79 % 
+PyCharm                  2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   38.04 % 
+Antigravity CLI          36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+RustRover                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🐱‍💻 Projects: 
-Competencies-Game-front  3 hrs 2 mins        ████████████████░░░░░░░░░   63.46 % 
-hr_game_auth             57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-hr_game_main             33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-logging_service          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-karaoke-app              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Competencies-Game-front  3 hrs 41 mins       ████████████░░░░░░░░░░░░░   48.79 % 
+hr_game_main             1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+hr_game_auth             1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+karaoke-app              53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+logging_service          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 💻 Operating System: 
-Windows                  4 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 21 mins (91.04%)
+⏱ AI Coding Time: 6 hrs 11 mins (82.06%)
 
-✍️ 443 lines written by AI, 1 lines written by hand (99.77% AI-written)
+✍️ 638 lines written by AI, 40 lines written by hand (94.1% AI-written)
 
-🔤 42,311,118 Input Tokens, 81,717 Output Tokens
+🔤 44,323,785 Input Tokens, 86,291 Output Tokens
 
-💵 $85.54 Estimated AI Cost This Week
+💵 $89.57 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 44 AI Prompts
+🧠 11 AI Sessions, 71 AI Prompts
 
-Gemini                   556 lines           ███████████████████████░░   93.60 % 
-Sonnet                   38 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Gemini                   736 lines           ███████████████████████░░   90.64 % 
+Sonnet                   76 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.77% of written lines came from AI
-📝 Concise Prompter — average 74 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 1.59% of changed lines were hand-edited
+🤖 AI-Driven — 94.1% of written lines came from AI
+📝 Concise Prompter — average 86 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 6.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -106,5 +107,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 01:23:03 UTC
+ Last Updated on 04/08/2026 05:38:27 UTC
 <!--END_SECTION:waka-->
