@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-954%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-956%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,50 +44,50 @@ Sunday                   222 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               3 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.39 % 
-Python                   2 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.60 % 
-Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-SCSS                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+TypeScript               4 hrs 56 mins       █████████████░░░░░░░░░░░░   50.63 % 
+Python                   2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+PHP                      1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+SCSS                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 45 mins       ████████████░░░░░░░░░░░░░   49.79 % 
-PyCharm                  2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   38.04 % 
-Antigravity CLI          36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-RustRover                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Claude Code              6 hrs 46 mins       █████████████████░░░░░░░░   69.36 % 
+PyCharm                  2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Antigravity CLI          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+RustRover                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🐱‍💻 Projects: 
-Competencies-Game-front  3 hrs 41 mins       ████████████░░░░░░░░░░░░░   48.79 % 
-hr_game_main             1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-hr_game_auth             1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-karaoke-app              53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-logging_service          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Competencies-Game-front  5 hrs 25 mins       ██████████████░░░░░░░░░░░   55.58 % 
+PayPalShoppingCart       1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+hr_game_auth             1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+hr_game_main             58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+karaoke-app              50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 
 💻 Operating System: 
-Windows                  7 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 11 mins (82.06%)
+⏱ AI Coding Time: 8 hrs 42 mins (89.15%)
 
-✍️ 638 lines written by AI, 40 lines written by hand (94.1% AI-written)
+✍️ 876 lines written by AI, 39 lines written by hand (95.74% AI-written)
 
-🔤 44,323,785 Input Tokens, 86,291 Output Tokens
+🔤 85,894,396 Input Tokens, 157,898 Output Tokens
 
-💵 $89.57 Estimated AI Cost This Week
+💵 $173.09 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 71 AI Prompts
+🧠 10 AI Sessions, 139 AI Prompts
 
-Gemini                   736 lines           ███████████████████████░░   90.64 % 
-Sonnet                   76 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Gemini                   999 lines           ████████████████████████░   96.34 % 
+Sonnet                   38 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.1% of written lines came from AI
-📝 Concise Prompter — average 86 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 6.06% of changed lines were hand-edited
+🤖 AI-Driven — 95.74% of written lines came from AI
+📝 Concise Prompter — average 185 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 3.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -107,5 +107,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 22:03:30 UTC
+ Last Updated on 05/08/2026 01:28:11 UTC
 <!--END_SECTION:waka-->
