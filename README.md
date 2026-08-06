@@ -44,50 +44,50 @@ Sunday                   222 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               4 hrs 56 mins       █████████████░░░░░░░░░░░░   50.63 % 
-Python                   2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-PHP                      1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-SCSS                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+TypeScript               2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   42.55 % 
+Python                   1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+PHP                      1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+SCSS                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 46 mins       █████████████████░░░░░░░░   69.36 % 
-PyCharm                  2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Antigravity CLI          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-RustRover                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Claude Code              4 hrs 4 mins        ███████████████░░░░░░░░░░   60.37 % 
+PyCharm                  1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+Antigravity CLI          32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+RustRover                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🐱‍💻 Projects: 
-Competencies-Game-front  5 hrs 25 mins       ██████████████░░░░░░░░░░░   55.58 % 
-PayPalShoppingCart       1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-hr_game_auth             1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-hr_game_main             58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-karaoke-app              50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Competencies-Game-front  2 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   40.40 % 
+PayPalShoppingCart       1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+hr_game_main             1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+karaoke-app              50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+hr_game_auth             37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
 
 💻 Operating System: 
-Windows                  9 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 42 mins (89.15%)
+⏱ AI Coding Time: 5 hrs 20 mins (79.31%)
 
-✍️ 876 lines written by AI, 39 lines written by hand (95.74% AI-written)
+✍️ 452 lines written by AI, 59 lines written by hand (88.45% AI-written)
 
-🔤 85,894,396 Input Tokens, 157,898 Output Tokens
+🔤 35,680,296 Input Tokens, 76,445 Output Tokens
 
-💵 $173.09 Estimated AI Cost This Week
+💵 $71.68 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 139 AI Prompts
+🧠 9 AI Sessions, 98 AI Prompts
 
-Gemini                   999 lines           ████████████████████████░   96.34 % 
-Sonnet                   38 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Gemini                   462 lines           ███████████████████████░░   92.40 % 
+Sonnet                   38 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.74% of written lines came from AI
-📝 Concise Prompter — average 185 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 3.8% of changed lines were hand-edited
+🤖 AI-Driven — 88.45% of written lines came from AI
+📝 Concise Prompter — average 233 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 10.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -107,5 +107,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 22:05:24 UTC
+ Last Updated on 06/08/2026 01:25:41 UTC
 <!--END_SECTION:waka-->
