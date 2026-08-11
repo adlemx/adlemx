@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-958%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-959%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -44,50 +44,47 @@ Sunday                   222 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.58 % 
-Python                   2 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   33.91 % 
-PHP                      1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-SCSS                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Python                   2 hrs               ███████████░░░░░░░░░░░░░░   42.77 % 
+PHP                      57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+TypeScript               51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+SCSS                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Smarty                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 8 mins        ██████████████░░░░░░░░░░░   54.16 % 
-PyCharm                  2 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.49 % 
-Antigravity CLI          32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-RustRover                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Claude Code              2 hrs 38 mins       ██████████████░░░░░░░░░░░   56.51 % 
+PyCharm                  2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.49 % 
 
 🐱‍💻 Projects: 
-Competencies-Game-front  2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.54 % 
-PayPalShoppingCart       1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-hr_game_main             1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-hr_game_auth             1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-karaoke-app              50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Competencies-Game-front  1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+PayPalShoppingCart       1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+hr_game_main             59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+hr_game_auth             59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+logging_service          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 💻 Operating System: 
-Windows                  7 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 31 mins (72.29%)
+⏱ AI Coding Time: 3 hrs 9 mins (67.5%)
 
-✍️ 446 lines written by AI, 147 lines written by hand (75.21% AI-written)
+✍️ 440 lines written by AI, 120 lines written by hand (78.57% AI-written)
 
-🔤 34,047,981 Input Tokens, 110,073 Output Tokens
+🔤 22,351,284 Input Tokens, 84,817 Output Tokens
 
-💵 $69.34 Estimated AI Cost This Week
+💵 $46.35 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 109 AI Prompts
+🧠 5 AI Sessions, 60 AI Prompts
 
-Gemini                   457 lines           ███████████████████████░░   92.32 % 
-Sonnet                   38 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Gemini                   449 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.21% of written lines came from AI
-📝 Concise Prompter — average 307 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 24.77% of changed lines were hand-edited
+🤖 AI-Driven — 78.57% of written lines came from AI
+📝 Concise Prompter — average 412 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 23.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -107,5 +104,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 21:31:52 UTC
+ Last Updated on 11/08/2026 00:53:23 UTC
 <!--END_SECTION:waka-->
