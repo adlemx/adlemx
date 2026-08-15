@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-960%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-962%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-44%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -44,47 +44,48 @@ Sunday                   222 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   2 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.24 % 
-TypeScript               2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   34.43 % 
-PHP                      55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-SCSS                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+TypeScript               3 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.58 % 
+Python                   2 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   39.96 % 
+SCSS                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 49 mins       ████████████████░░░░░░░░░   65.23 % 
-PyCharm                  2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.77 % 
+Claude Code              2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   41.74 % 
+PyCharm                  2 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   39.03 % 
+Antigravity CLI          1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
 
 🐱‍💻 Projects: 
-Competencies-Game-front  2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   41.00 % 
-hr_game_auth             1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-hr_game_main             1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-ComplyPiwigo             57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-isoflow                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Competencies-Game-front  2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.95 % 
+brilliant-maker          1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+hr_game_auth             1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+hr_game_main             1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+brilliant-maker-backend  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 
 💻 Operating System: 
-Windows                  5 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 41 mins (80.09%)
+⏱ AI Coding Time: 5 hrs 9 mins (74.92%)
 
-✍️ 1,608 lines written by AI, 102 lines written by hand (94.04% AI-written)
+✍️ 1,080 lines written by AI, 117 lines written by hand (90.23% AI-written)
 
-🔤 30,433,934 Input Tokens, 165,935 Output Tokens
+🔤 20,192,767 Input Tokens, 120,345 Output Tokens
 
-💵 $62.21 Estimated AI Cost This Week
+💵 $42.47 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 80 AI Prompts
+🧠 8 AI Sessions, 95 AI Prompts
 
-Gemini                   1,867 lines         █████████████████████████   100.00 % 
+Gemini                   1,143 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.04% of written lines came from AI
-📄 Detailed Prompter — average 646 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 5.9% of changed lines were hand-edited
+🤖 AI-Driven — 90.23% of written lines came from AI
+📄 Detailed Prompter — average 557 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 10.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -104,5 +105,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 21:15:42 UTC
+ Last Updated on 15/08/2026 00:36:24 UTC
 <!--END_SECTION:waka-->
