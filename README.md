@@ -44,48 +44,48 @@ Sunday                   222 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               2 hrs 27 mins       █████████████░░░░░░░░░░░░   51.75 % 
-Python                   1 hr 57 mins        ██████████░░░░░░░░░░░░░░░   41.11 % 
-SCSS                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               2 hrs 18 mins       ████████████████░░░░░░░░░   64.29 % 
+Python                   1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   34.00 % 
+SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   39.06 % 
-Claude Code              1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   33.06 % 
-Antigravity CLI          1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+Antigravity CLI          1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   36.74 % 
+Claude Code              1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   31.97 % 
+PyCharm                  1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   31.30 % 
 
 🐱‍💻 Projects: 
-brilliant-maker          1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-Competencies-Game-front  1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-hr_game_main             52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-brilliant-maker-backend  38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-hr_game_auth             27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+brilliant-maker          1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   36.74 % 
+Competencies-Game-front  41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+brilliant-maker-backend  38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+hr_game_auth             27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+isoflow                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 
 💻 Operating System: 
-Windows                  4 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 44 mins (78.87%)
+⏱ AI Coding Time: 2 hrs 55 mins (81.27%)
 
-✍️ 952 lines written by AI, 29 lines written by hand (97.04% AI-written)
+✍️ 741 lines written by AI, 17 lines written by hand (97.76% AI-written)
 
-🔤 8,052,137 Input Tokens, 43,552 Output Tokens
+🔤 6,697,573 Input Tokens, 34,240 Output Tokens
 
-💵 $16.51 Estimated AI Cost This Week
+💵 $13.63 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 63 AI Prompts
+🧠 5 AI Sessions, 58 AI Prompts
 
-Gemini                   1,003 lines         █████████████████████████   100.00 % 
+Gemini                   792 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.04% of written lines came from AI
-📝 Concise Prompter — average 398 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 3.09% of changed lines were hand-edited
+🤖 AI-Driven — 97.76% of written lines came from AI
+📝 Concise Prompter — average 414 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 2.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,5 +105,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 21:16:26 UTC
+ Last Updated on 18/08/2026 00:35:59 UTC
 <!--END_SECTION:waka-->
