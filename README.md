@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-964%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2012%20mins-blue?style=flat)
 
@@ -44,16 +44,20 @@ Sunday                   222 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     14 mins             ████████████░░░░░░░░░░░░░   48.23 % 
+textmate                 7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+TypeScript               6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+SQL                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+RustRover                30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+karaoke-app              30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -79,5 +83,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 21:59:47 UTC
+ Last Updated on 10/10/2026 03:12:22 UTC
 <!--END_SECTION:waka-->
