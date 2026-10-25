@@ -44,49 +44,49 @@ Sunday                   222 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.90 % 
-Python                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Java                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-XML                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Kotlin                   2 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.59 % 
+Python                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Java                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+XML                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
 
 🔥 Editors: 
-Android Studio           3 hrs 57 mins       ███████████████████░░░░░░   75.02 % 
-PyCharm                  1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-Rider                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Android Studio           3 hrs 52 mins       ███████████████████░░░░░░   74.64 % 
+PyCharm                  1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Rider                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🐱‍💻 Projects: 
-MaterialDiaryNew         3 hrs 41 mins       █████████████████░░░░░░░░   69.99 % 
-DiaryBackend             54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-main                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-SimpleClicker            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-adlemx-landing           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+MaterialDiaryNew         3 hrs 41 mins       ██████████████████░░░░░░░   71.07 % 
+DiaryBackend             54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+main                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+SimpleClicker            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+MaterialDiary            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Windows                  5 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 47 mins (34.12%)
+⏱ AI Coding Time: 1 hr 42 mins (33.1%)
 
-✍️ 1,314 lines written by AI, 234 lines written by hand (84.88% AI-written)
+✍️ 67 lines written by AI, 234 lines written by hand (22.26% AI-written)
 
-🔤 6,791,530 Input Tokens, 525,412 Output Tokens
+🔤 425,217 Input Tokens, 24,535 Output Tokens
 
-💵 $19.89 Estimated AI Cost This Week
+💵 $1.15 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 27 AI Prompts
+🧠 2 AI Sessions, 26 AI Prompts
 
-Gemini                   1,314 lines         █████████████████████████   100.00 % 
+Gemini                   67 lines            █████████████████████████   100.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.88% of written lines came from AI
-📝 Concise Prompter — average 153 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 18.33% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 22.26% of written lines came from AI
+📝 Concise Prompter — average 145 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🔍 Hands-On Reviewer — 81.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -106,5 +106,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 22:48:10 UTC
+ Last Updated on 25/10/2026 02:10:44 UTC
 <!--END_SECTION:waka-->
