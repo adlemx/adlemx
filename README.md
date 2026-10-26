@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-969%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-969%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2055%20mins-blue?style=flat)
 
@@ -44,34 +44,36 @@ Sunday                   222 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.59 % 
-Python                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Java                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-XML                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Kotlin                   2 hrs 1 min         ████████████░░░░░░░░░░░░░   48.55 % 
+Java                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+XML                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+INI                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-Android Studio           3 hrs 52 mins       ███████████████████░░░░░░   74.64 % 
-PyCharm                  1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Rider                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Android Studio           3 hrs 22 mins       ████████████████████░░░░░   81.02 % 
+PyCharm                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+VS Code                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Rider                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🐱‍💻 Projects: 
-MaterialDiaryNew         3 hrs 41 mins       ██████████████████░░░░░░░   71.07 % 
-DiaryBackend             54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-main                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-SimpleClicker            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-MaterialDiary            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+MaterialDiaryNew         3 hrs 11 mins       ███████████████████░░░░░░   76.57 % 
+main                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+ansible                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+DiaryBackend             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+SimpleClicker            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 💻 Operating System: 
-Windows                  5 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 53 mins       ███████████████████████░░   93.63 % 
+Linux                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 42 mins (33.1%)
+⏱ AI Coding Time: 1 hr 42 mins (41.25%)
 
-✍️ 67 lines written by AI, 234 lines written by hand (22.26% AI-written)
+✍️ 67 lines written by AI, 253 lines written by hand (20.94% AI-written)
 
 🔤 425,217 Input Tokens, 24,535 Output Tokens
 
@@ -83,10 +85,10 @@ Gemini                   67 lines            ███████████�
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.26% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 20.94% of written lines came from AI
 📝 Concise Prompter — average 145 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 81.49% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 79.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -106,5 +108,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 22:55:39 UTC
+ Last Updated on 26/10/2026 02:11:07 UTC
 <!--END_SECTION:waka-->
