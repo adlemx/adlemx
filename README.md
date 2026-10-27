@@ -44,51 +44,30 @@ Sunday                   222 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 1 min         ████████████░░░░░░░░░░░░░   48.55 % 
-Java                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-XML                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-INI                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+INI                      9 mins              ██████████░░░░░░░░░░░░░░░   40.44 % 
+YAML                     6 mins              ████████░░░░░░░░░░░░░░░░░   30.75 % 
+XML                      6 mins              ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-Android Studio           3 hrs 22 mins       ████████████████████░░░░░   81.02 % 
-PyCharm                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-VS Code                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Rider                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+VS Code                  15 mins             ██████████████████░░░░░░░   71.19 % 
+Rider                    6 mins              ███████░░░░░░░░░░░░░░░░░░   28.81 % 
 
 🐱‍💻 Projects: 
-MaterialDiaryNew         3 hrs 11 mins       ███████████████████░░░░░░   76.57 % 
-main                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-ansible                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-DiaryBackend             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-SimpleClicker            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+ansible                  15 mins             ██████████████████░░░░░░░   71.19 % 
+SimpleClicker            6 mins              ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-Windows                  3 hrs 53 mins       ███████████████████████░░   93.63 % 
-Linux                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Linux                    15 mins             ██████████████████░░░░░░░   71.19 % 
+Windows                  6 mins              ███████░░░░░░░░░░░░░░░░░░   28.81 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 42 mins (41.25%)
-
-✍️ 67 lines written by AI, 253 lines written by hand (20.94% AI-written)
-
-🔤 425,217 Input Tokens, 24,535 Output Tokens
-
-💵 $1.15 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 26 AI Prompts
-
-Gemini                   67 lines            █████████████████████████   100.00 % 
-M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 20.94% of written lines came from AI
-📝 Concise Prompter — average 145 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 79.7% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -108,5 +87,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 22:03:39 UTC
+ Last Updated on 27/10/2026 02:48:18 UTC
 <!--END_SECTION:waka-->
