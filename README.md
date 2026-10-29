@@ -44,24 +44,17 @@ Sunday                   222 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-INI                      9 mins              ██████████░░░░░░░░░░░░░░░   40.44 % 
-YAML                     6 mins              ████████░░░░░░░░░░░░░░░░░   30.75 % 
-XML                      6 mins              ███████░░░░░░░░░░░░░░░░░░   27.68 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+INI                      9 mins              ██████████████░░░░░░░░░░░   56.80 % 
+YAML                     6 mins              ███████████░░░░░░░░░░░░░░   43.20 % 
 
 🔥 Editors: 
-VS Code                  15 mins             ██████████████████░░░░░░░   71.19 % 
-Rider                    6 mins              ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ansible                  15 mins             ██████████████████░░░░░░░   71.19 % 
-SimpleClicker            6 mins              ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+ansible                  15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 mins             ██████████████████░░░░░░░   71.19 % 
-Windows                  6 mins              ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+Linux                    15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,5 +80,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adlemx/adlemx/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 21:59:44 UTC
+ Last Updated on 29/10/2026 03:21:46 UTC
 <!--END_SECTION:waka-->
